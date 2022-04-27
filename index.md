@@ -36,15 +36,15 @@ dataType:Json
 
 ```json
 {
-    "WellName": "",                                    // 井名
-    "WellTemplateFile": "",                            // 井模板文件
-    "DepthFileName": "",                            // 深度段文件
-    "CurveFileName": "",                            // 曲线类文件
-    "VisFileName": "",                                // vis类文件
-    "TraceFileName": "",                            // 井轨迹文件
-    "DepthScale": 0.0,                                // 深度比例
-    "StartDepth": 0.0,                                // 起始深度
-    "EndDept": 0.0                                    // 结束深度
+    "WellName": "",                                     // 井名
+    "WellTemplateFile": "",                             // 井模板文件
+    "DepthFileName": "",                                // 深度段文件
+    "CurveFileName": "",                                // 曲线类文件
+    "VisFileName": "",                                  // vis类文件
+    "TraceFileName": "",                                // 井轨迹文件
+    "DepthScale": 0.0,                                  // 深度比例
+    "StartDepth": 0.0,                                  // 起始深度
+    "EndDept": 0.0                                      // 结束深度
 }
 ```
 ### Support or Contact
